@@ -29,7 +29,7 @@ class Song
   def genre_count
   @@genres.uniq.length
   end
-  def .artist_count
+  def artist_count
   
   end
 
