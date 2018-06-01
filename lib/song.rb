@@ -21,6 +21,6 @@ end
 def artists
 end
 
-def genres
+  def genres
   end
 end
